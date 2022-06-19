@@ -1,4 +1,5 @@
-# 2022 JsStudy
+# 2022 JsStudy 
+(2022.06.17 ~ ing)
 
 ## :dizzy: 구성원<br/>
  - 임준수    [GitHub](https://github.com/junsu0121)
