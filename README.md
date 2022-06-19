@@ -8,7 +8,7 @@
  - 임준수    [GitHub](https://github.com/junsu0121)
  - 노희수    [GitHub](https://github.com/heesujin)
  - 지송이    [GitHub](https://github.com/jrl103)
- - 이현석    [GitHub]()
+ - 이현석    [GitHub](https://github.com/LeeHuynSuk)
  - 변희재    [GitHub]()
 <br/>
 <br/>
