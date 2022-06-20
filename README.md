@@ -9,7 +9,7 @@
  - 노희수    [GitHub](https://github.com/heesujin)
  - 지송이    [GitHub](https://github.com/jrl103)
  - 이현석    [GitHub](https://github.com/LeeHuynSuk)
- - 변희재    [GitHub]()
+ - 변희재    [GitHub](https://github.com/qusgmlwo)
 <br/>
 <br/>
 <br/>
